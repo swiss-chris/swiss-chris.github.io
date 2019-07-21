@@ -136,7 +136,7 @@
       $.ajax({
 
 	      type: "POST",
-         url: 'https://app.99inbound.com/api/e/40ks1-2G',
+         url: 'https://app.99inbound.com/api/e/cziOewHs',
          data: $('#contactForm').serialize(),
 	      success: function() {
             $('#image-loader').fadeOut();
