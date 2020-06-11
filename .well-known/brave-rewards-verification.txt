@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: dickinson.ch
-Token: 5152e376fe2c7deae28fffe6f2c724418785a730152b12776b309e3d8a2d26c7
